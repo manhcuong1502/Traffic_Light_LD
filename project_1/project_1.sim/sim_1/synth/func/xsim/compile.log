@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HOME/Downloads/trafficlight/project_1/project_1.sim/sim_1/synth/func/xsim/traffic_control_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module trial
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HOME/Downloads/trafficlight/project_1/project_1.srcs/sim_1/imports/trafficlight/traffic_ASM_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module traffic_control_tb

@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"traffic_control_tb_func_synth.v" \
+"../../../../../project_1.srcs/sim_1/imports/trafficlight/traffic_ASM_tb.v" \
+
+# Do not sort compile order
+nosort
